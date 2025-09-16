@@ -1,12 +1,25 @@
-# React + Vite
+# 🎬 Movie React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Movie Time** — a sleek React app that helps you discover movies you'll truly enjoy. Built with Vite + React and powered by TMDB and Appwrite, this project is designed to deliver fast performance and a smooth user experience.
 
-Currently, two official plugins are available:
+🌐 **Live Site**: [movie-react-app-sigma-five.vercel.app](https://movie-react-app-sigma-five.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 **Search Movies**: Find films using TMDB's powerful search API
+- 🎞️ **Dynamic Listings**: Browse through a curated list of movies
+- ⚡ **Fast & Lightweight**: Built with Vite for blazing-fast performance
+- 🧠 **Backend Integration**: Uses Appwrite for database and project management
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React + Vite
+- **Styling**: CSS , Tailwind 
+- **APIs**: [TMDB](https://www.themoviedb.org/documentation/api), [Appwrite](https://appwrite.io/)
+- **Deployment**: [Vercel](https://vercel.com)
+
+
