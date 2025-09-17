@@ -2,7 +2,7 @@
 
 Welcome to **Movie Time** — a sleek React app that helps you discover movies you'll truly enjoy. Built with Vite + React and powered by TMDB and Appwrite, this project is designed to deliver fast performance and a smooth user experience.
 
-🌐 **Live Site**: [movie-react-app-sigma-five.vercel.app](https://movie-react-app-sigma-five.vercel.app)
+🌐 **Live Site**: [Movie-App](https://movie-react-app-sigma-five.vercel.app)
 
 ---
 
